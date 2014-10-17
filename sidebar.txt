@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nir:home|Door43 (nir)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nir|d43-nir repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nir/archive/master.zip|d43-nir.zip]]
+
+**Recent Changes**
+{{changes>ns = nir}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nir|Ethnologue data]]
+
